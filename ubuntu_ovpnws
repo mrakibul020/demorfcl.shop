@@ -2,7 +2,7 @@
 #!/bin/bash
 #Script Variables
 HOST='174.138.184.18';
-USER='ksatunne_arafnet';
+USER='rfplusvi_demo';
 PASS='rfplusvi_demo';
 DBNAME='rfplusvi_demo';
 PORT_TCP='1194';
